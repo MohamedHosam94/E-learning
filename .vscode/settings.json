@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "onecentlin.laravel-blade",
+    "blade.format.enable": true,
+    "editor.renderIndentGuides": false,
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2
+}
